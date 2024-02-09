@@ -1,0 +1,12 @@
+.__top{
+    top: 40px !important;
+    
+}
+label{
+    transition: .5s;
+}
+
+input:focus{
+    
+    box-shadow: none !important;
+}
